@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Hi+%F0%9F%91%8B%2C+I'm+Lucas)](https://git.io/typing-svg)
 <h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **MM Tecnologia em Análise e Desenvolvimento de Sistemas**
