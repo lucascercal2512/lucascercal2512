@@ -1,4 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Hi+%F0%9F%91%8B%2C+I'm+Lucas)](https://git.io/typing-svg)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Cercal-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-cercal-fontes-89827b1b5/)](https://www.linkedin.com/in/lucas-cercal-fontes-89827b1b5/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucascercal.fontes@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascercal.fontes@gmail.com)](mailto:lucascercal.fontes@gmail.com)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&lines=Software+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **MM Tecnologia em Análise e Desenvolvimento de Sistemas**
