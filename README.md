@@ -17,5 +17,5 @@
 
 <p><img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-cercal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="lucas-cercal"/> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucas-cercal&show_icons=true&locale=en&theme=dracula" alt="lucas-cercal" /></p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=500&lines=Contributions+in+the+last+year)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=500&lines=Contributions+in+the+last+year)](https://git.io/typing-svg)
 ![Snake animation](https://github.com/lucas-cercal/lucas-cercal/blob/output/github-contribution-grid-snake.svg)
