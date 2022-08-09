@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Hi+%F0%9F%91%8B%2C+I'm+Lucas)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=500&lines=Lucas+Cercal)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Cercal-539BF5?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-cercal-fontes-89827b1b5/)](https://www.linkedin.com/in/lucas-cercal-fontes-89827b1b5/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucascercal.fontes@gmail.com-D64B3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascercal.fontes@gmail.com)](mailto:lucascercal.fontes@gmail.com)
@@ -9,13 +9,6 @@
 
 - 🌱 I’m currently learning **Node.js and React**
 
-- 📫 How to reach me **lucascercal.fontes@gmail.com**
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Connect+with+me)](https://git.io/typing-svg)
-<p align="left">
-<a href="https://linkedin.com/in/lucas-cercal-fontes-89827b1b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-cercal-fontes-89827b1b5" height="30" width="40" /></a>
-<a href="https://discord.gg/#8373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8373" height="30" width="40" /></a>
-</p><br>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
