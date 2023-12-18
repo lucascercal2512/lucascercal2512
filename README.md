@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MM Tecnologia em Análise e Desenvolvimento de Sistemas**
 
-- 🌱 I’m currently learning **Node.js, ReactJS and React Native**
+- 🌱 I’m currently learning **Typescript and ReactJS**
 
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=CCFFFF&width=436&lines=Languages+and+Tools)](https://git.io/typing-svg)
