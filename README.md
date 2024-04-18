@@ -36,6 +36,7 @@
     ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Postgres](https://img.shields.io/badge/Postgres%20-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
     ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
