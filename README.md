@@ -33,7 +33,6 @@
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![Typescript](https://img.shields.io/badge/Typescript%20-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
     ![Postgres](https://img.shields.io/badge/Postgres%20-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
