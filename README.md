@@ -51,7 +51,7 @@
    ![Typescript](https://img.shields.io/badge/Typescript%20-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-   ![ReactNative](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+   ![ReactNative](https://img.shields.io/badge/ReactNative%20-%232370ED.svg?style=for-the-badge&logo=react&logoColor=black)
    ![Cypress](https://img.shields.io/badge/Cypress%20-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 <br>
