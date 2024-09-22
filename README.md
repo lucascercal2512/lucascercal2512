@@ -18,7 +18,7 @@
 
 - A passionate Self-taught Back-end developer
 - Currently learning Web Development by Self
-- I’m currently working on MM Technology
+- I’m currently working on UseDigi Consig
 
 <br>
 
